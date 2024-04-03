@@ -1,0 +1,5 @@
+com\innowise\inventoryservice\model\Inventory.class
+com\innowise\inventoryservice\repository\InventoryRepository.class
+com\innowise\inventoryservice\controller\InventoryController.class
+com\innowise\inventoryservice\service\InventoryService.class
+com\innowise\inventoryservice\InventoryServiceApplication.class

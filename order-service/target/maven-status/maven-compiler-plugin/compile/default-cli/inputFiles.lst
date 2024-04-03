@@ -1,0 +1,11 @@
+C:\Users\User\IdeaProjects\microservice-ecommerce-parent\order-service\src\main\java\com\innowise\orderservice\model\Order.java
+C:\Users\User\IdeaProjects\microservice-ecommerce-parent\order-service\src\main\java\com\innowise\orderservice\config\WebClientConfig.java
+C:\Users\User\IdeaProjects\microservice-ecommerce-parent\order-service\src\main\java\com\innowise\orderservice\repository\OrderRepository.java
+C:\Users\User\IdeaProjects\microservice-ecommerce-parent\order-service\src\main\java\com\innowise\orderservice\dto\InventoryResponse.java
+C:\Users\User\IdeaProjects\microservice-ecommerce-parent\order-service\src\main\java\com\innowise\orderservice\model\OrderLineItems.java
+C:\Users\User\IdeaProjects\microservice-ecommerce-parent\order-service\src\main\java\com\innowise\orderservice\dto\OrderLineItemsDto.java
+C:\Users\User\IdeaProjects\microservice-ecommerce-parent\order-service\src\main\java\com\innowise\orderservice\event\OrderPlacedEvent.java
+C:\Users\User\IdeaProjects\microservice-ecommerce-parent\order-service\src\main\java\com\innowise\orderservice\service\OrderService.java
+C:\Users\User\IdeaProjects\microservice-ecommerce-parent\order-service\src\main\java\com\innowise\orderservice\controller\OrderController.java
+C:\Users\User\IdeaProjects\microservice-ecommerce-parent\order-service\src\main\java\com\innowise\orderservice\dto\OrderRequest.java
+C:\Users\User\IdeaProjects\microservice-ecommerce-parent\order-service\src\main\java\com\innowise\orderservice\OrderServiceApplication.java

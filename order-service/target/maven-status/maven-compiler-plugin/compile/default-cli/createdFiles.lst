@@ -1,0 +1,12 @@
+com\innowise\orderservice\controller\OrderController.class
+com\innowise\orderservice\dto\OrderLineItemsDto.class
+com\innowise\orderservice\event\OrderPlacedEvent.class
+com\innowise\orderservice\model\OrderLineItems.class
+com\innowise\orderservice\repository\OrderRepository.class
+com\innowise\orderservice\config\WebClientConfig.class
+com\innowise\orderservice\dto\InventoryResponse.class
+com\innowise\orderservice\dto\OrderRequest.class
+com\innowise\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\innowise\orderservice\model\Order.class
+com\innowise\orderservice\OrderServiceApplication.class
+com\innowise\orderservice\service\OrderService.class
