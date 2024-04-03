@@ -1,0 +1,10 @@
+com\innowise\productservice\dto\ProductResponse.class
+com\innowise\productservice\repository\ProductRepository.class
+com\innowise\productservice\dto\ProductRequest.class
+com\innowise\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\innowise\productservice\ProductServiceApplication.class
+com\innowise\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\innowise\productservice\model\Product$ProductBuilder.class
+com\innowise\productservice\model\Product.class
+com\innowise\productservice\controller\ProductController.class
+com\innowise\productservice\service\ProductService.class
